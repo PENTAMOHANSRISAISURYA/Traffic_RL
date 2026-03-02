@@ -1,0 +1,5 @@
+scenario,total_wait,improvement_pct
+Fixed Baseline (Traditional),12274.5,0.00
+RL Agent (clear),1956.0,84.06
+RL Agent (adverse),8533.35,30.48
+RL Agent (random),5432.5,55.74
